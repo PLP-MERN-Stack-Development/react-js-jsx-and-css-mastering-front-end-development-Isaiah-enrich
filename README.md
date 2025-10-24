@@ -1,70 +1,46 @@
-# React.js and Tailwind CSS Assignment
+# 🧩 React Task Manager & API Integration App
 
-This assignment focuses on building a responsive React application using JSX and Tailwind CSS, implementing component architecture, state management, hooks, and API integration.
+This project was built as part of **Week 3: React.js, JSX, and Tailwind CSS – Mastering Front-End Development**.  
+It demonstrates **component architecture, state management, hooks, API integration**, and **responsive UI** with **Tailwind CSS**.
 
-## Assignment Overview
+---
 
-You will:
-1. Set up a React project with Vite and Tailwind CSS
-2. Create reusable UI components
-3. Implement state management using React hooks
-4. Integrate with external APIs
-5. Style your application using Tailwind CSS
+## 🚀 Live Demo
+🔗 [View Deployed App on Vercel](https://your-vercel-app-url.vercel.app)
 
-## Getting Started
+---
 
-1. Accept the GitHub Classroom assignment invitation
-2. Clone your personal repository that was created by GitHub Classroom
-3. Install dependencies:
-   ```
-   npm install
-   ```
-4. Start the development server:
-   ```
-   npm run dev
-   ```
+## 🧠 Objective
+Build a responsive React application using JSX and Tailwind CSS that demonstrates:
+- Component-based architecture
+- State management using React Hooks
+- API integration with Axios
+- Custom hooks and theme context
+- Responsive design and dark mode
 
-## Files Included
+---
 
-- `Week3-Assignment.md`: Detailed assignment instructions
-- Starter files for your React application:
-  - Basic project structure
-  - Pre-configured Tailwind CSS
-  - Sample component templates
+## 🏗️ Features
+✅ Add, complete, and delete tasks  
+✅ Filter tasks (All / Active / Completed)  
+✅ Persist data with LocalStorage  
+✅ Fetch posts from a public API (JSONPlaceholder)  
+✅ Search and display posts in grid view  
+✅ Dark/Light mode toggle with context  
+✅ Responsive design (mobile → desktop)
 
-## Requirements
+---
 
-- Node.js (v18 or higher)
-- npm or yarn
-- Modern web browser
-- Code editor (VS Code recommended)
+## 🛠️ Tech Stack
+| Tool | Purpose |
+|------|----------|
+| React (Vite) | Front-end framework |
+| Tailwind CSS | Styling and responsiveness |
+| React Router DOM | Page routing |
+| Axios | API integration |
+| LocalStorage | Data persistence |
+| Context API | Theme management |
 
-## Project Structure
+---
 
-```
-src/
-├── components/       # Reusable UI components
-├── pages/           # Page components
-├── hooks/           # Custom React hooks
-├── context/         # React context providers
-├── api/             # API integration functions
-├── utils/           # Utility functions
-└── App.jsx          # Main application component
-```
-
-## Submission
-
-Your work will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
-
-1. Complete all required components and features
-2. Implement proper state management with hooks
-3. Integrate with at least one external API
-4. Style your application with Tailwind CSS
-5. Deploy your application and add the URL to your README.md
-
-## Resources
-
-- [React Documentation](https://react.dev/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Vite Documentation](https://vitejs.dev/guide/)
-- [React Router Documentation](https://reactrouter.com/) 
+## 📂 Project Structure
